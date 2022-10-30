@@ -8,6 +8,8 @@ import Details from "./components/Details";
 import Default from "./components/Default";
 import Cart from "./components/Cart";
 import Modal from "./components/Modal";
+
+//class based component
 class App extends Component {
   render() {
     return (
